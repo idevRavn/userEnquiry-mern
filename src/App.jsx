@@ -3,7 +3,7 @@ import axios from "axios";
 import { ToastContainer, toast } from "react-toastify";
 import { useEffect, useState } from "react";
 import { Button, Label, TextInput, Textarea } from "flowbite-react";
-import UserList from "./components/userList";
+import UserList from "./components/UserList";
 const API_URL = import.meta.env.VITE_API_URL;
 
 function App() {
