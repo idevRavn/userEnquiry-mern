@@ -42,8 +42,8 @@
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/idevRavn/userEnquiry-mern.git
-cd userEnquiry-mern
+git clone https://github.com/idevRavn/userEnquiry.git
+cd userEnquiry
 npm install
 ```
 
